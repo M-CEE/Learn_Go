@@ -1,1 +1,1 @@
-This repo is created for all Golang scriots as I learn
+This repo is created for all Golang scripts as I learn
